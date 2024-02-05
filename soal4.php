@@ -1,0 +1,8 @@
+<?php
+
+$angka = 1;
+for ($i = 1; $i <= 6; $i++){
+    echo "<h$i>heading $i</h$i>";
+}
+
+?>
